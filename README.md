@@ -20,4 +20,4 @@ See Code : <a href='https://github.com/GH0STH4CKER/PyQt5_Sample_GUI_Program/blob
 
 <a href='https://www.python.org/downloads/release/python-3810/'><img src='https://img.shields.io/badge/python%20%203.8.10-163052?style=flat&logo=python'></a>
 <img src='https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg' >
-<img src='https://img.shields.io/github/license/{username}/{repo-name}.svg'>
+<img src='https://img.shields.io/github/license/GH0STH4CKER/PyQt5_Sample_GUI_Program.svg'>
