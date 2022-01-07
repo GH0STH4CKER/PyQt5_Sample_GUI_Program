@@ -1,1 +1,2 @@
-<h3><font color='blue' family='Lucida'>Python PyQt5 Sample GUI application</font></h3>
+### Python PyQt5 Sample GUI application
+<span style="color:blue">some *blue* text</span>.
