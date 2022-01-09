@@ -11,7 +11,7 @@
 git clone https://github.com/GH0STH4CKER/PyQt5_Sample_GUI_Program.git
 cd PyQt5_Sample_GUI_Program
 pip install -r requirements.txt
-python pyqt5_emailvalidate.py
+python PYQT5_Validate_Email_run.py
 ```
 ### Added functionality using python
 
