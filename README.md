@@ -14,7 +14,7 @@ pyuic5 -x {your ui file.ui} -o {output py file.py}
 ```
 Output file : <a href='https://github.com/GH0STH4CKER/PyQt5_Sample_GUI_Program/blob/main/PYQT5_Validate_Email_ui.py'>Here</a>
 
-### Created new file to add functionality
+### Created new .py file to add functionality
 
 See Code : <a href='https://github.com/GH0STH4CKER/PyQt5_Sample_GUI_Program/blob/main/PYQT5_Validate_Email_run.py'>Here</a>
 
