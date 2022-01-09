@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Window1</class>
+ <widget class="QDialog" name="Window1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>320</width>
+    <height>240</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <widget class="QPushButton" name="btnClear">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>180</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Comic Sans MS</family>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Clear</string>
+   </property>
+   <property name="checkable">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnValidate">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>180</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Comic Sans MS</family>
+     <pointsize>11</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Validate</string>
+   </property>
+   <property name="default">
+    <bool>true</bool>
+   </property>
+   <property name="flat">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="txtEmail">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>100</y>
+     <width>231</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Consolas</family>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="lbl_headline">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>30</y>
+     <width>211</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Comic Sans MS</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Emai Address Vaidation </string>
+   </property>
+  </widget>
+ </widget>
+ <tabstops>
+  <tabstop>txtEmail</tabstop>
+  <tabstop>btnClear</tabstop>
+  <tabstop>btnValidate</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>
