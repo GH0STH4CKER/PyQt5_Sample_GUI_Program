@@ -28,5 +28,5 @@ python PYQT5_Validate_Email_run.py
 <br>
 
 <a href='https://www.python.org/downloads/release/python-3810/'><img src='https://img.shields.io/badge/python%20%203.8.10-163052?style=flat&logo=python'></a>
-![VsCode](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label=Made%20with)
+![VsCode](https://badgen.net/badge/icon/visualstudio?icon=VS%20Code&label=Made%20with)
 <img src='https://img.shields.io/github/license/GH0STH4CKER/PyQt5_Sample_GUI_Program.svg'>
